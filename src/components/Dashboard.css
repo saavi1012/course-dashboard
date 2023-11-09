@@ -1,0 +1,41 @@
+/* Dashboard.css */
+.course-details-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f8f9fa;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.course-header {
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #eaeaea;
+  text-align: center;
+}
+
+.course-body {
+  margin-top: 20px;
+}
+
+.course-body h2 {
+  color: #333;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.course-body p {
+  color: #666;
+  margin: 5px 0;
+  line-height: 1.6;
+}
+
+.course-thumbnail {
+  width: 100%; /* or any other fitting size */
+  height: auto; /* maintain aspect ratio */
+  margin-bottom: 20px;
+  border-radius: 4px;
+}
+
+/* Add more styles as needed */
